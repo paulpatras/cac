@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="22350"
+   name=""
+   committed-date="2008-02-08T14:15:04.188361Z"
+   url="https://svn.ist-daidalos.org/svn/daidalos2/CODE/WP2/A21_MT-AP_RAL-DRIVER_WLAN/trunk/src/wtools"
+   last-author="paul.patras"
+   kind="dir"
+   uuid="a0ad1623-300b-0410-8b63-b8aa9105a950"
+   repos="https://svn.ist-daidalos.org/svn/daidalos2"
+   revision="23316"/>
+<entry
+   committed-rev="23320"
+   name="wireless.h"
+   text-time="2008-03-03T09:11:28.000000Z"
+   committed-date="2008-02-29T11:38:30.869176Z"
+   checksum="6ecbdee591d6fd44a082ca1d670ff678"
+   last-author="paul.patras"
+   kind="file"
+   prop-time="2008-02-29T11:06:52.000000Z"
+   revision="23320"/>
+<entry
+   committed-rev="23320"
+   name="iwlib.c"
+   text-time="2008-03-03T09:11:28.000000Z"
+   committed-date="2008-02-29T11:38:30.869176Z"
+   checksum="1aa5def4aea1620156519cbfed386974"
+   last-author="paul.patras"
+   kind="file"
+   prop-time="2008-02-29T11:06:52.000000Z"
+   revision="23320"/>
+<entry
+   committed-rev="22350"
+   name=".iwconfig.c.swp"
+   text-time="2008-03-03T09:11:28.000000Z"
+   committed-date="2008-02-08T14:15:04.188361Z"
+   checksum="4b53dcd60e463cc1e064641b1dcbd547"
+   last-author="paul.patras"
+   kind="file"
+   prop-time="2008-02-29T11:06:52.000000Z"/>
+<entry
+   committed-rev="23490"
+   name="iwlib.h"
+   text-time="2008-03-03T14:44:46.000000Z"
+   committed-date="2008-03-06T14:27:30.864178Z"
+   checksum="69a6b957756c634d5ce21abaea4459df"
+   last-author="paul.patras"
+   kind="file"
+   prop-time="2008-02-29T11:06:52.000000Z"
+   revision="23490"/>
+<entry
+   committed-rev="23320"
+   name="wireless_copy.h"
+   text-time="2008-03-03T14:44:25.000000Z"
+   committed-date="2008-02-29T11:38:30.869176Z"
+   checksum="281b847a3924487cbc46774ea4644476"
+   last-author="paul.patras"
+   kind="file"
+   prop-time="2008-02-29T11:06:52.000000Z"
+   revision="23320"/>
+</wc-entries>
