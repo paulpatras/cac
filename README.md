@@ -1,7 +1,7 @@
 # CAC
 # Author: Paul Patras
 
-CAC is a Linux application that implements a centralized adaptive algorithm that can be 
+CAC is a Linux application that implements a centralized adaptive algorithm, which can be 
 deployed on commodity access points to optimise the throughput performance of WLANs based
 on the IEEE 802.11 technology.
 
